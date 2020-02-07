@@ -4,10 +4,9 @@ Find a problem worth solving, analyzing, or visualizing.
 Use ML in the context of technologies learned.
 You must use: Scikit-Learn and/or another machine learning library. You must use at least two of the below:
 
-Python Pandas HTML/CSS/Bootstrap Python Matplotlib JavaScript Plotly
-JavaScript D3.js
-JavaScript Leaflet SQL Database MongoDB Database
-Google Cloud SQL Amazon AWS Tableau
+Python, Pandas, HTML/CSS/Bootstrap, Python Matplotlib, JavaScript Plotly
+JavaScript D3.js, JavaScript Leaflet, SQL Database, MongoDB Database
+Google Cloud SQL, Amazon AWS, Tableau
 
 Prepare a 15-minute data deep-dive or infrastructure walkthrough that shows machine learning in the context of what we’ve already learned.
 
